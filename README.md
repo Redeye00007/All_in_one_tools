@@ -9,7 +9,7 @@ You need to run 1st Basic package install then 👇
 
 
 # ✅All_in_One_tools✅
-
+# For Non Rooted Device
 ``` 
 git clone https://github.com/Redeye00007/All_in_one_tools
 
@@ -17,6 +17,16 @@ cd All_in_one_tools
 
 python All_in_one_tools.py
 ```
+# For Rooted device
+
+``` 
+git clone https://github.com/Redeye00007/All_in_one_tools
+
+cd All_in_one_tools
+
+sudo python All_in_one_tools.py -i wlan0 -K
+```
+
 ## Tools Login Info👇
 
 # Username
