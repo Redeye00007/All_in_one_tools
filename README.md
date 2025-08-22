@@ -15,5 +15,5 @@ git clone https://github.com/Redeye00007/All_in_one_tools
 
 cd All_in_one_tools
 
-python All_in_one_tools
+python All_in_one_tools.py
 ```
