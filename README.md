@@ -6,7 +6,7 @@
 
 # Installation
 You need to run 1st Basic package install then 👇
-```
+
 
 # ✅✅✅✅✅All_in_One_tools✅✅✅✅✅
 
