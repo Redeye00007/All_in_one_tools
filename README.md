@@ -8,7 +8,7 @@
 You need to run 1st Basic package install then 👇
 
 
-# ✅✅✅✅✅All_in_One_tools✅✅✅✅✅
+# ✅All_in_One_tools✅
 
 ``` 
 git clone https://github.com/Redeye00007/All_in_one_tools
@@ -17,7 +17,7 @@ cd All_in_one_tools
 
 python All_in_one_tools.py
 ```
-## Tools Login Info
+## Tools Login Info👇
 
 # Username
 ```
